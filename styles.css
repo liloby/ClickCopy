@@ -23,7 +23,7 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: var(--light-blue);
+  background-color: #42b5d0;
 }
 
 p {
@@ -46,4 +46,9 @@ img {
   justify-content: center;
   align-items: center; */
   height: 100vh;
+}
+
+.btn {
+  margin-left: .5rem;
+  width: 7rem;
 }
